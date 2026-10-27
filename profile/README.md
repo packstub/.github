@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://packstub.dev"><img src="https://raw.githubusercontent.com/packstub/.github/main/profile/banner.png" alt="Packstub: Laravel and Filament plugins" width="100%"></a>
+  <a href="https://packstub.dev"><img src="https://raw.githubusercontent.com/packstub/.github/main/profile/hero.png" alt="Packstub: Laravel and Filament plugins" width="100%"></a>
 </p>
 
 <p align="center">
