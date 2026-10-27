@@ -76,28 +76,20 @@ Designed themes for Filament panels, with a per-user choice.<br>
 <sub><a href="https://packstub.dev/docs/filament-nitpick">Docs</a> &middot; <a href="https://packagist.org/packages/packstub/filament-nitpick">Packagist</a></sub>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/packstub/partisan"><img src="https://raw.githubusercontent.com/packstub/art/main/partisan/preview.png" alt="Partisan" width="100%"></a>
-<b><a href="https://github.com/packstub/partisan">Partisan</a></b><br>
-Artisan <code>make:</code> generators for Laravel packages.<br>
-<sub><a href="https://packstub.dev/docs/partisan">Docs</a> &middot; <a href="https://packagist.org/packages/packstub/partisan">Packagist</a></sub>
-</td>
-<td width="50%"></td>
-</tr>
 </table>
 
-### The engines behind the panels
+### Laravel packages
 
-Each of these runs in a plain Laravel app on its own; the Filament plugin of the same name adds the panel UI.
+Each of these runs in a plain Laravel app on its own. The first three are the engines behind the Filament plugins of the same name.
 
 - **[Agents for Laravel](https://github.com/packstub/agents)**: an agent engine and an MCP server sharing one tool list, with turns, budgets and limits. [Docs](https://packstub.dev/docs/agents) &middot; [Packagist](https://packagist.org/packages/packstub/agents)
 - **[Session Replay for Laravel](https://github.com/packstub/session-replay)** `beta`: an rrweb recorder with privacy defaults, token-signed ingest, recordings on your own disk and database, a player behind a gate you define. [Docs](https://packstub.dev/docs/session-replay) &middot; [Packagist](https://packagist.org/packages/packstub/session-replay) &middot; [Demo app](https://github.com/packstub/session-replay-demo)
 - **[Account Switcher for Laravel](https://github.com/packstub/account-switcher)**: the session core of Filament Account Switcher, with routes and Blade components.
+- **[Partisan](https://github.com/packstub/partisan)**: Artisan for Laravel packages, `make:` generators that write into `src/` with your package namespace. [Docs](https://packstub.dev/docs/partisan) &middot; [Packagist](https://packagist.org/packages/packstub/partisan)
 
 ## Paid plugins
 
-Licensed updates, VAT invoices and a customer portal that shows you exactly how to install. Together they are the [Filament SaaS Stack](https://packstub.dev/bundles/filament-saas-stack).
+Licensed updates, VAT invoices and a customer portal that shows you exactly how to install.
 
 <table>
 <tr>
@@ -121,7 +113,12 @@ Teams, invitations, seat limits and tenant-scoped roles.<br>
 Plans, limits and feature flags per tenant, with overrides and kill switches.<br>
 <sub><a href="https://packstub.dev/plugins/filament-features">Store</a> &middot; <a href="https://packstub.dev/docs/filament-features">Docs</a></sub>
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+<a href="https://packstub.dev/bundles/filament-saas-stack"><img src="https://raw.githubusercontent.com/packstub/.github/main/profile/saas-stack.jpg" alt="Filament SaaS Stack" width="100%"></a>
+<b><a href="https://packstub.dev/bundles/filament-saas-stack">Filament SaaS Stack</a></b><br>
+Tenancy, Teams and Features together, one licence for the whole stack.<br>
+<sub><a href="https://packstub.dev/bundles/filament-saas-stack">Store</a></sub>
+</td>
 </tr>
 </table>
 
